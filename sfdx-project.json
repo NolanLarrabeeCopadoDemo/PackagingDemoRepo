@@ -1,20 +1,26 @@
 {
-  "packageDirectories": [
-    {
-      "path": "srcMyCoreApp",
-      "default": true
-    },
-    {
-      "path": "srcMySalesApp",
-      "default": false
-    },
-    {
-      "path": "srcMyServiceApp",
-      "default": false
+    "packageDirectories": [
+        {
+            "path": "srcMyCoreApp",
+            "default": true,
+            "package": "BicycleApplication",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "srcMySalesApp",
+            "default": false
+        },
+        {
+            "path": "srcMyServiceApp",
+            "default": false
+        }
+    ],
+    "name": "cohortFall22",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "57.0",
+    "packageAliases": {
+        "BicycleApplication": "0HoHo000000KykdKAC"
     }
-  ],
-  "name": "cohortFall22",
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "57.0"
 }
