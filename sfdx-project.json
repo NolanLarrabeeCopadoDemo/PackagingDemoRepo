@@ -21,6 +21,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "57.0",
     "packageAliases": {
-        "BicycleApplication": "0HoHo000000KykdKAC"
+        "BicycleApplication": "0HoHo000000KykdKAC",
+        "BicycleApplication@1.0.0-1-main": "04tHo000000Q4oSIAS"
     }
 }
